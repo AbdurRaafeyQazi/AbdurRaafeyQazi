@@ -8,12 +8,12 @@
 ## 👨‍💻 About Me:
 Ever since I was a kid, I have been fascinated by technology and dreamed of working with computers.
 
-This passion carried through my education at **University of Illinois Chicago**, where I studied new languages, algorithms, and built projects as part of the **local ACM chapter**. I am currently pursuing a **Bachelor of Science in Computer Science** and have a strong passion for **video game development**. Right now, I am actively working on a Game Development project in **C++ and Lua**.
+This passion carried through my education at **University of Illinois Chicago**, where I studied new languages, algorithms, and built projects as a student. I am currently pursuing a **Bachelor of Science in Computer Science** and have a strong passion for **video game development**, and **Web Development**. Right now, I am actively working on a Game Development project in **C++ and Lua**.
 
 Additionally, I love **web development** and recently participated in a **hackathon**, where I collaborated with a team to create a website aimed at helping **small businesses list and promote their services**. As I look forward to graduation, I have started learning **React, Node.js, and MongoDB** to expand my expertise in web technologies. 
 
 ### Specialties:
-- **Languages:** C, C++, Java, Objective-C, JavaScript, Python, Lua
+- **Languages:** C, C++, Java, JavaScript, Python, Lua
 
 ## 🌐 Connect with me:
 <p align="left">
