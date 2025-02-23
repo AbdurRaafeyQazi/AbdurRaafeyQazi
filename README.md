@@ -35,6 +35,13 @@ Additionally, I recently participated in a hackathon, where I collaborated with 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
 </p>
 
+## 📌 Featured Repositories:
+<p>
+  <a href="https://github.com/microwaves22/KCALM-SPARKHACK2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=microwaves22&repo=KCALM-SPARKHACK2025&theme=radical" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurraafeyqazi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
