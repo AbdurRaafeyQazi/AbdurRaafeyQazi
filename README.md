@@ -36,16 +36,22 @@ Additionally, I recently participated in a hackathon, where I collaborated with 
 </p>
 
 ## 📌 Pinned Repositories:
+### KCALM-SPARKHACK2025
 <p>
   <a href="https://github.com/microwaves22/KCALM-SPARKHACK2025">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=microwaves22&repo=KCALM-SPARKHACK2025&theme=radical" />
   </a>
 </p>
+<p>A web development project created during a hackathon to help small businesses list and promote their services.</p>
+
+### CS251 - Data Structures and Algorithms
 <p>
   <a href="https://github.com/AbdurRaafeyQazi/CS251">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRaafeyQazi&repo=CS251&theme=radical" />
   </a>
 </p>
+<p>A collection of labs and projects from UIC's CS251 course, covering fundamental data structures and algorithms in C++.</p>
+
 
 ## 📊 GitHub Stats:
 <p>
