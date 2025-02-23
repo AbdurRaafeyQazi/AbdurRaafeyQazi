@@ -41,6 +41,11 @@ Additionally, I recently participated in a hackathon, where I collaborated with 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=microwaves22&repo=KCALM-SPARKHACK2025&theme=radical" />
   </a>
 </p>
+<p>
+  <a href="https://github.com/AbdurRaafeyQazi/CS251">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRaafeyQazi&repo=CS251&theme=radical" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats:
 <p>
