@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abdur Raafey</h1>
 <h3 align="center">Passionate about Game & Web Development</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abdurraafeyqazi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ## 👨‍💻 About Me:
 Ever since I was a kid, I have been fascinated by technology and dreamed of working with computers.
 
