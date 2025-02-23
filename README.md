@@ -6,13 +6,17 @@
 </p>
 
 ## 👨‍💻 About Me:
-I am currently pursuing a **Bachelor of Science in Computer Science**. I have a strong passion for **video game development** and am actively working on a project in **C++ and Lua**. Additionally, I love **web development** and recently participated in a **hackathon** where I collaborated with a team to create a website aimed at helping **small businesses list and promote their services**.
+Ever since I was a kid, I have been fascinated by technology and dreamed of working with computers.
+
+This passion carried through my education at **University of Illinois Chicago**, where I studied new languages, algorithms, and built projects as part of the **local ACM chapter**. I am currently pursuing a **Bachelor of Science in Computer Science** and have a strong passion for **video game development**. Right now, I am actively working on a Game Development project in **C++ and Lua**.
+
+Additionally, I love **web development** and recently participated in a **hackathon**, where I collaborated with a team to create a website aimed at helping **small businesses list and promote their services**. As I look forward to graduation, I have started learning **React, Node.js, and MongoDB** to expand my expertise in web technologies. 
+
+### Specialties:
+- **Languages:** C, C++, Java, Objective-C, JavaScript, Python, Lua
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="mailto:abdurraafeyqazi19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/abdurraafeyqazi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
