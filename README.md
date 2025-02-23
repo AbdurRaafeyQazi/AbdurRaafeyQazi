@@ -47,7 +47,6 @@ Additionally, I recently participated in a hackathon, where I collaborated with 
 ### CS251 - Data Structures and Algorithms
 <p>
   <a href="https://github.com/AbdurRaafeyQazi/CS251">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRaafeyQazi&repo=CS251&theme=radical" />
   </a>
 </p>
 <p>A collection of labs and projects from UIC's CS251 course, covering fundamental data structures and algorithms in C++.</p>
