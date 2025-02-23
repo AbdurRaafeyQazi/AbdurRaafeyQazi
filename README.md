@@ -52,7 +52,6 @@ Additionally, I recently participated in a hackathon, where I collaborated with 
 </p>
 <p>A collection of labs and projects from UIC's CS251 course, covering fundamental data structures and algorithms in C++.</p>
 
-
 ## 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurraafeyqazi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
